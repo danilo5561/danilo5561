@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Danilo José</h1>
+<h1 align="center">Olá 👋, me chamo Danilo José</h1>
 <h3 align="center">I'm a data analyst, Python and SQL student</h3>
 
-- 🌱 I’m currently learning **python for data analysis, pandas, numpy, pytest, matplotlib, seaborn, etc..) and also SQL**
+- 🌱 Atualmente, estou aprendendo Python para análise de dados, pandas, numpy, pytest, matplotlib, seaborn, etc.) e também SQL.**
 
-- 💬 Ask me about **I am a data analyst, I have experience with data processing and data-based decision making, today focusing on improving technical skills in new tools**
+- 💬 Sobre mim **Eu sou analista de dados, tenho experiência em processamento de dados e tomada de decisões baseadas em dados, com foco atual em aprimorar habilidades técnicas em novas ferramentas.**
 
-- 📫 How to reach me **lara.danilo25@gmail.com**
+- 📫 Como entrar em contato comigo: **lara.danilo25@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/danilojosedelara/](https://www.linkedin.com/in/danilojosedelara/)
+- 📄 Saiba mais sobre minhas experiências. [https://www.linkedin.com/in/danilojosedelara/](https://www.linkedin.com/in/danilojosedelara/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
