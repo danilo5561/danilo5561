@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Danilo José</h1>
-<h3 align="center">I'm a data analyst, Python and SQL student</h3>
+<h3 align="center">Sou analista de dados, estudante de Python e SQL.</h3>
 
 - 🌱 Atualmente, estou aprendendo Python para análise de dados, pandas, numpy, pytest, matplotlib, seaborn, etc.) e também SQL.**
 
@@ -9,7 +9,7 @@
 
 - 📄 Saiba mais sobre minhas experiências. [https://www.linkedin.com/in/danilojosedelara/](https://www.linkedin.com/in/danilojosedelara/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/danilojosedelara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/danilojosedelara/" height="30" width="40" /></a>
 </p>
